@@ -4,6 +4,11 @@
 
 This repo contains Brand Guidelines, Logotype and typography for Linux Australia Inc's brand.
 
+## Typography
+
+Linux Australia uses the 'Cairo' font available from; 
+https://fonts.google.com/specimen/Cairo
+
 ## Logo variations
 
 Several logo variations are provided for different purposes. Please contact council@linux.org.au if you require a different format of the logo. 
